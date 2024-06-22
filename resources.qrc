@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>theblue.jpg</file>
+        <file>thebluealpha.jpg</file>
+        <file>icon.png</file>
+        <file>PatreonBottomScreenLogo.jpg</file>
+    </qresource>
+</RCC>
